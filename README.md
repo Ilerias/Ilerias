@@ -18,9 +18,5 @@
 
 👉 Check the pinned repositories for details!
 
-## 📫 How to reach me
-- **Email:** yourpublicemail@example.com  
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/...)  
-
 ## ⚡ Fun fact
 When I'm not coding, I'm exploring new brewing recipes 🍺
