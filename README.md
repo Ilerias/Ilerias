@@ -1,19 +1,26 @@
-# Szia, én Kiss János (Ilerias) vagyok 👋
+# Hi there, I'm János Kiss-Zsélyi 👋
 
-🎓 2. éves programtervező informatikus  
-🗄️ 7+ év SQL gyakorlat (T-SQL), erős adatbázisos háttér  
-💻 C# a legerősebb nyelvem; C/C++ alapok  
-🌱 Érdekel: backend, adatfeldolgozás, ETL, kisebb REST API-k  
-🕑 Napi 1–2 óra mellékprojekt / open-source
+🎓 **2nd-year Software Engineering student**  
+🗄️ **7+ years of SQL experience**, strong C# and solid C/C++ foundations  
+🔭 **Interested in:** backend development, data processing, ETL, and small REST APIs  
+🤝 **Open to:** open-source contributions and small freelance projects (1–2 hours/day)
 
-## Tech
-**Nyelvek:** C#, C, C++  
-**Adatbázis:** SQL Server, PostgreSQL, SQLite  
-**Eszközök:** Git, GitHub Actions, Docker (alapok), LINQ, EF Core
+## 🛠 Tech Stack
+- **Languages:** C#, C, C++
+- **Databases:** SQL Server, PostgreSQL, SQLite
+- **Tools:** Git, GitHub Actions, Docker (basics), LINQ, EF Core
 
-## Kiemelt projektek
-- Mini C# REST API + SQL (EF Core)  
-- SQL ETL pipeline (adattisztítás, normalizálás)  
-- Algoritmus-gyakorlatok (benchmarkokkal)
+## 📌 Featured Projects
+- **Library** – C# exercise project demonstrating OOP and basic CRUD  
+- **Vehicles** – C# practice for inheritance and interfaces  
+- **webshop** – JavaScript exercise implementing a simple e-shop front-end  
+- **APIBeadando** – JavaScript backend assignment
 
-👉 Nézd a pinned repókat a részletekért!
+👉 Check the pinned repositories for details!
+
+## 📫 How to reach me
+- **Email:** yourpublicemail@example.com  
+- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/...)  
+
+## ⚡ Fun fact
+When I'm not coding, I'm exploring new brewing recipes 🍺
