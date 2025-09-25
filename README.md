@@ -1,7 +1,7 @@
 # Hi there, I'm János Kiss-Zsélyi 👋
 
 🎓 **2nd-year Software Engineering student**  
-🗄️ **7+ years of SQL experience**, strong C# and solid C/C++ foundations  
+🗄️ **7+ years of SQL experience**, C# and solid C/C++ foundations  
 🔭 **Interested in:** backend development, data processing, ETL, and small REST APIs  
 🤝 **Open to:** open-source contributions and small freelance projects (1–2 hours/day)
 
